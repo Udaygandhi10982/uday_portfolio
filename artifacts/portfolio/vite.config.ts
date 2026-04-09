@@ -62,6 +62,9 @@ export default defineConfig({
     port,
     host: "0.0.0.0",
     allowedHosts: true,
+    headers: {
+      "Content-Security-Policy": "frame-ancestors *",
+    },
     fs: {
       strict: false,
     },
@@ -70,5 +73,8 @@ export default defineConfig({
     port,
     host: "0.0.0.0",
     allowedHosts: true,
+    headers: {
+      "Content-Security-Policy": "frame-ancestors *",
+    },
   },
 });
