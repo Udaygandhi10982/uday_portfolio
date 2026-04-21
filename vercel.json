@@ -1,23 +1,4 @@
 {
-  "version": 2,
-  "projects": {
-    "portfolio": {
-      "name": "portfolio",
-      "buildCommand": "pnpm run build",
-      "outputDirectory": "artifacts/portfolio/dist",
-      "installCommand": "pnpm install"
-    },
-    "api": {
-      "name": "api",
-      "buildCommand": "pnpm run build",
-      "outputDirectory": "dist",
-      "installCommand": "pnpm install",
-      "env": {
-        "NODE_ENV": "production"
-      }
-    }
-  },
   "buildCommand": "pnpm run build",
-  "installCommand": "pnpm install",
-  "monorepo": true
+  "installCommand": "pnpm install"
 }
