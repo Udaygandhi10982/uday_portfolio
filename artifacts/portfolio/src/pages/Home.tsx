@@ -368,42 +368,48 @@ export default function Home() {
       date: "July 2025 - August 2025",
       description: "Developed an AI/ML model trained on a Kaggle dataset for Safe/Threat classification achieving 90% accuracy. Built Python-based visualizations and a manual detection feature evaluating 8 key inputs.",
       tags: ["Python", "Machine Learning", "Data Visualization"],
-      github: "https://github.com/Udaygandhi10982/Ai_cyber_threat_detection"
+      github: "https://github.com/Udaygandhi10982/Ai_cyber_threat_detection",
+      link: undefined
     },
     {
       title: "Sentiment Analysis on Social Media",
       date: "February 2025 - April 2025",
       description: "Engineered a tri-class sentiment prediction model (Positive/Negative/Neutral) on Twitter data achieving 85% accuracy.",
       tags: ["Python", "scikit-learn", "NLTK"],
-      github: "https://github.com/Udaygandhi10982/Sentiment_Analysis"
+      github: "https://github.com/Udaygandhi10982/Sentiment_Analysis",
+      link: undefined
     },
     {
       title: "Bill Splitter",
       date: "February 2025 - April 2025",
       description: "Built a web-based bill splitter featuring an AI 'Cuisine Helper' module. Integrated the Twilio API for seamless SMS/email sharing.",
       tags: ["HTML", "CSS", "JavaScript", "Twilio API"],
-      github: "https://github.com/Udaygandhi10982/bill_splitter_"
+      github: "https://github.com/Udaygandhi10982/bill_splitter_",
+      link: undefined
     },
     {
       title: "Tic Tac Toe",
       date: "January 2025",
       description: "Interactive classic game featuring a responsive UI and intelligent game logic. Built to demonstrate proficiency in core web technologies.",
       tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Udaygandhi10982/rock-paper-scissors"
+      github: "https://github.com/Udaygandhi10982/rock-paper-scissors",
+      link: undefined
     },
     {
       title: "Court Hearing",
       date: "November 2025 - December 2025",
       description: "A specialized management platform for tracking court hearing schedules and judicial records, streamlining legal coordination.",
       tags: ["Python", "Database", "Management System"],
-      github: "https://github.com/Udaygandhi10982/Court_Hearing-"
+      github: "https://github.com/Udaygandhi10982/Court_Hearing-",
+      link: undefined
     },
     {
       title: "Cross-Lingual QA",
       date: "January 2026 - Present",
       description: "An NLP system for question answering across multiple languages using multilingual knowledge graphs and advanced language models.",
       tags: ["NLP", "AI", "Multilingual", "Python"],
-      github: "https://github.com/Udaygandhi10982/Cross-Lingual-Question-Answering-over-Multilingual-Knowledge"
+      github: "https://github.com/Udaygandhi10982/Cross-Lingual-Question-Answering-over-Multilingual-Knowledge",
+      link: undefined
     }
   ];
 
